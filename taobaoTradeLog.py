@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
 # Parse deals history to give you the price trendency of your favarate.
-# huzhili At mail.google.com
+# huzhili At gmail.com
 import urllib
 import codecs
 from pyquery import PyQuery as pq
